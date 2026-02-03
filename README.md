@@ -1,8 +1,6 @@
 # SnakeRL
 
-这个项目的核心原理是 深度 Q 网络（Deep Q-Network, DQN），它是将深度学习（Deep Learning）与强化学习（Reinforcement Learning）结合的经典算法。
-
-我将为你创建一个详细的原理解析文档，配合图表和公式深入剖析它是如何工作的。
+项目的核心原理是 深度 Q 网络（Deep Q-Network, DQN），它是将深度学习（Deep Learning）与强化学习（Reinforcement Learning）结合的经典算法。
 
 1. 核心概念：Q-Learning
 强化学习的本质是试错学习。在贪吃蛇中，智能体（Agent）不知道什么动作是好的，它只知道环境（Environment）给它的奖励（Reward）。
